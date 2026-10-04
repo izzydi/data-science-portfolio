@@ -4,11 +4,12 @@
 
 ### Applied machine learning · Statistical modelling · Deep learning · Geospatial analytics
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![H2O](https://img.shields.io/badge/H2O-00A6D6?style=for-the-badge)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+[![XGBoost](https://img.shields.io/badge/XGBoost-1F425F?style=for-the-badge)](https://xgboost.readthedocs.io/)
+[![H2O](https://img.shields.io/badge/H2O-00A6D6?style=for-the-badge)](https://h2o.ai/)
 
 [![Profile](https://img.shields.io/badge/Back_to_izzydi-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/izzydi)
 
@@ -54,14 +55,14 @@ These repositories preserve completed outputs but **do not currently contain the
 
 <p align="center">
 
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-1F425F?style=flat-square)
-![UMAP](https://img.shields.io/badge/UMAP-7B61FF?style=flat-square)
-![tidymodels](https://img.shields.io/badge/tidymodels-2780E3?style=flat-square)
-![ggplot2](https://img.shields.io/badge/ggplot2-5C6BC0?style=flat-square)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+[![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![XGBoost](https://img.shields.io/badge/XGBoost-1F425F?style=flat-square)](https://xgboost.readthedocs.io/)
+[![UMAP](https://img.shields.io/badge/UMAP-7B61FF?style=flat-square)](https://umap-learn.readthedocs.io/)
+[![tidymodels](https://img.shields.io/badge/tidymodels-2780E3?style=flat-square)](https://www.tidymodels.org/)
+[![ggplot2](https://img.shields.io/badge/ggplot2-5C6BC0?style=flat-square)](https://ggplot2.tidyverse.org/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 
 </p>
 

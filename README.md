@@ -25,7 +25,7 @@ The portfolio emphasizes **reproducibility, clear problem framing, careful valid
 | Project | Focus | Stack |
 |---|---|---|
 | 🏥 [Hospital Readmission Prediction](https://github.com/izzydi/hospital-readmission-prediction) | Patient readmission analysis and predictive modelling | Python · pandas · scikit-learn |
-| 🏨 [Hotel Cancellation Prediction](https://github.com/izzydi/hotel-cancellation-prediction) | Classification and business-oriented cancellation analysis | R · Machine Learning |
+| 🏨 [Hotel Cancellation Prediction](https://github.com/izzydi/hotel-cancellation-prediction) | Classification and business-oriented cancellation analysis | Python · pandas · scikit-learn |
 | 🧠 [Keras Autoencoder in R](https://github.com/izzydi/keras-autoencoder-r) | Neural representation learning with downstream classification | R · Keras · TensorFlow · tidymodels |
 | ⚙️ [H2O Autoencoder in R](https://github.com/izzydi/h2o-autoencoder-r) | Sparse deep autoencoders and learned representations | R · H2O |
 | 🧭 [Supervised UMAP](https://github.com/izzydi/supervised-umap-python) | Reproducible dimensionality reduction with train-only preprocessing | Python · UMAP · scikit-learn |

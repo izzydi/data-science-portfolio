@@ -70,16 +70,21 @@ These repositories preserve completed outputs but **do not currently contain the
 
 ## ✅ Portfolio standards
 
-Repositories are maintained with the following principles:
+Executable repositories are maintained with the following principles:
 
-- clear problem statements and project summaries,
-- descriptive file and repository names,
-- explicit dependency information for executable workflows,
-- relative rather than machine-specific data paths,
-- explicit notes when source data cannot be redistributed or exactly reconstructed,
-- separation between exploratory historical work and cleaned reproducible workflows,
-- no overstated performance claims or hidden validation leakage,
-- automated smoke or dependency/syntax checks on the primary executable workflows.
+- clear problem statements, project summaries and explicit evaluation boundaries,
+- descriptive file/repository names and project-relative paths rather than machine-specific paths,
+- version-pinned direct dependencies for the maintained Python and R workflows,
+- Python 3.12 GitHub Actions with source compilation and synthetic/unit smoke tests on the primary Python projects,
+- R 4.6.1 GitHub Actions that install the pinned direct R package refs and parse the canonical R Markdown source; H2O workflows also pin Java 17 in CI,
+- preprocessing, feature selection and tuning decisions kept outside held-out evaluation data,
+- explicit caveats where representation learning is fixed before downstream classifier cross-validation,
+- explicit data provenance notes when source data cannot be redistributed or exactly reconstructed,
+- historical notebooks/reports separated from canonical audited implementations,
+- no optimized-performance claims when a workflow uses fixed baseline hyperparameters,
+- no claim of bit-for-bit reproducibility where external neural-network backends or unavailable raw data prevent it.
+
+The R manifests pin direct package versions but are intentionally not described as full `renv.lock` snapshots; recursive dependency resolution is handled by `pak`. Historical render/report-only repositories remain labelled separately rather than being presented as executable projects.
 
 ---
 

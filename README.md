@@ -8,8 +8,8 @@ The portfolio emphasizes reproducible analysis, clear problem framing and practi
 
 | Project | Focus | Stack |
 |---|---|---|
-| [Hospital Readmission Prediction](https://github.com/izzydi/Reducing-hospital-readmissions-with-Machine-Learning) | Patient readmission analysis and predictive modelling | Python, pandas, scikit-learn |
-| [Hotel Cancellation Prediction](https://github.com/izzydi/Leveraging-Machine-Learning-to-Predict-and-Minimize-Hotel-Cancellations) | Classification and business-oriented cancellation analysis | R / ML |
+| [Hospital Readmission Prediction](https://github.com/izzydi/hospital-readmission-prediction) | Patient readmission analysis and predictive modelling | Python, pandas, scikit-learn |
+| [Hotel Cancellation Prediction](https://github.com/izzydi/hotel-cancellation-prediction) | Classification and business-oriented cancellation analysis | R / ML |
 | [Keras Autoencoder in R](https://github.com/izzydi/keras-autoencoder-r) | Representation learning with a neural autoencoder and downstream classification | R, Keras, TensorFlow, tidymodels |
 | [H2O Autoencoders in R](https://github.com/izzydi/h2o-autoencoder-r) | Sparse deep autoencoders and learned representations | R, H2O |
 | [Supervised UMAP](https://github.com/izzydi/supervised-umap-python) | Reproducible dimensionality reduction with train-only preprocessing | Python, UMAP, scikit-learn |
@@ -50,6 +50,6 @@ Repositories are maintained with the following principles:
 - separation between exploratory historical work and cleaned reproducible workflows,
 - no overstated performance claims or hidden validation leakage.
 
-## Repository naming
+## About this repository
 
-This repository is the central portfolio index and is intended to be named **`data-science-portfolio`**.
+`data-science-portfolio` is the central index for the public-facing analytical work in this GitHub account. Individual repositories retain the full analyses, reports and supporting documentation.

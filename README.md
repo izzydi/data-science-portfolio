@@ -78,7 +78,7 @@ Repositories are maintained with the following principles:
 - explicit notes when source data cannot be redistributed or exactly reconstructed,
 - separation between exploratory historical work and cleaned reproducible workflows,
 - no overstated performance claims or hidden validation leakage,
-- automated smoke checks on the primary Python workflows.
+- automated smoke or dependency/syntax checks on the primary executable workflows.
 
 ---
 

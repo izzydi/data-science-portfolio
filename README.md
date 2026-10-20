@@ -45,7 +45,6 @@ The portfolio emphasizes **reproducibility, clear problem framing, careful valid
 
 These repositories preserve completed outputs but **do not currently contain the original executable source**, so they should be reviewed as historical/reporting artifacts rather than reproducible software projects:
 
-- [Titanic Survival Prediction](https://github.com/izzydi/titanic-survival-prediction) — rendered HTML analysis only.
 - [Austin Crime Geospatial Analysis](https://github.com/izzydi/austin-crime-geospatial-analysis) — rendered interactive geospatial output only.
 - [Moran's I Spatial Autocorrelation](https://github.com/izzydi/spatial-autocorrelation-morans-i) — rendered spatial-analysis output only.
 - [England Geospatial Mapping](https://github.com/izzydi/england-geospatial-mapping) — rendered map/output only.
@@ -53,18 +52,7 @@ These repositories preserve completed outputs but **do not currently contain the
 
 ## 🧰 Technical skills demonstrated
 
-<p align="center">
-
-[![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org/)
-[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)](https://jupyter.org/)
-[![XGBoost](https://img.shields.io/badge/XGBoost-1F425F?style=flat-square)](https://xgboost.readthedocs.io/)
-[![UMAP](https://img.shields.io/badge/UMAP-7B61FF?style=flat-square)](https://umap-learn.readthedocs.io/)
-[![tidymodels](https://img.shields.io/badge/tidymodels-2780E3?style=flat-square)](https://www.tidymodels.org/)
-[![ggplot2](https://img.shields.io/badge/ggplot2-5C6BC0?style=flat-square)](https://ggplot2.tidyverse.org/)
-[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
-
-</p>
+**Tools:** pandas · NumPy · Jupyter · UMAP · tidymodels · ggplot2 · Git · GitHub Actions
 
 **Methods:** Classification · Regression · Feature Engineering · Cross-Validation · Dimensionality Reduction · Autoencoders · Anomaly Detection · Model Diagnostics · Imputation · Geospatial Analysis
 

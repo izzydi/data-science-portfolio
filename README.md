@@ -45,10 +45,10 @@ The portfolio emphasizes **reproducibility, clear problem framing, careful valid
 
 These repositories preserve rendered reports. The code is visible inside each report, but **the standalone source files are not included**, so they should be reviewed as historical/reporting artifacts rather than reproducible software projects:
 
-- [Austin Police Use-of-Force Mapping](https://github.com/izzydi/austin-crime-geospatial-analysis) — map of 2014–2016 use-of-force incidents in Austin, rendered from R.
+- [Austin Police Use-of-Force Mapping](https://github.com/izzydi/austin-police-use-of-force-map) — map of 2014–2016 use-of-force incidents in Austin, rendered from R.
 - [Moran's I Spatial Autocorrelation](https://github.com/izzydi/spatial-autocorrelation-morans-i) — spatial autocorrelation of unemployment across Greek municipalities.
-- [UK Countries Map](https://github.com/izzydi/england-geospatial-mapping) — step-by-step map of the four UK countries.
-- [Divorce Prediction Report](https://github.com/izzydi/decision-making-analysis) — rendered report (Word and PDF) of the original divorce-prediction coursework.
+- [UK Countries Map](https://github.com/izzydi/uk-countries-map) — step-by-step map of the four UK countries.
+- [Divorce Prediction Report](https://github.com/izzydi/divorce-prediction-report) — rendered report (Word and PDF) of the original divorce-prediction coursework.
 
 ## 🧰 Technical skills demonstrated
 

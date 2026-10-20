@@ -43,12 +43,12 @@ The portfolio emphasizes **reproducibility, clear problem framing, careful valid
 
 ## 🗃️ Historical portfolio artifacts
 
-These repositories preserve completed outputs but **do not currently contain the original executable source**, so they should be reviewed as historical/reporting artifacts rather than reproducible software projects:
+These repositories preserve rendered reports. The code is visible inside each report, but **the standalone source files are not included**, so they should be reviewed as historical/reporting artifacts rather than reproducible software projects:
 
-- [Austin Crime Geospatial Analysis](https://github.com/izzydi/austin-crime-geospatial-analysis) — rendered interactive geospatial output only.
-- [Moran's I Spatial Autocorrelation](https://github.com/izzydi/spatial-autocorrelation-morans-i) — rendered spatial-analysis output only.
-- [England Geospatial Mapping](https://github.com/izzydi/england-geospatial-mapping) — rendered map/output only.
-- [Decision-Making Analysis](https://github.com/izzydi/decision-making-analysis) — report-based `.docx` project without executable source.
+- [Austin Police Use-of-Force Mapping](https://github.com/izzydi/austin-crime-geospatial-analysis) — map of 2014–2016 use-of-force incidents in Austin, rendered from R.
+- [Moran's I Spatial Autocorrelation](https://github.com/izzydi/spatial-autocorrelation-morans-i) — spatial autocorrelation of unemployment across Greek municipalities.
+- [England Geospatial Mapping](https://github.com/izzydi/england-geospatial-mapping) — step-by-step map of the four UK countries.
+- [Decision-Making Analysis](https://github.com/izzydi/decision-making-analysis) — rendered report (Word and PDF) of the original divorce-prediction coursework.
 
 ## 🧰 Technical skills demonstrated
 
